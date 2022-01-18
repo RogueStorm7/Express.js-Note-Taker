@@ -4,8 +4,10 @@
 * Descriptipon
 * User Story
 * Acceptance Criteria
+* Installation
 * Website
 * Screenshots
+* Badges
 * Contact
 
 ## Description:
@@ -31,10 +33,25 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
+## Installation
+You can begin by downloading [Nodejs](https://nodejs.org/en/download/) to your computer.
+
 ## Website
 [Note Taker]()
 
 ## Screenshots
-![Screenshot](screenshots/Screenshot 1.png)
+
+![Screenshot](https://github.com/RogueStorm7/Express.js-Note-Taker/blob/main/screenshots/Screenshot 1.png)
+
+![Screenshot](https://github.com/RogueStorm7/Express.js-Note-Taker/blob/main/screenshots/Screenshot 2.png)
+
+## Badges
+![badge size](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![badge size](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![badge size]()
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## Contact
+[Mianta McKnight](https://github.com/RogueStorm7/Express.js-Note-Taker.git)
+
+&copy; 2022 Mianta McKnight  | All rights reserved | 

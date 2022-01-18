@@ -1,0 +1,25 @@
+{
+  "name": "express.js-note-taker",
+  "version": "1.0.0",
+  "description": "An application that designed for note taking ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogueStorm7/Express.js-Note-Taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RogueStorm7/Express.js-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/RogueStorm7/Express.js-Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
