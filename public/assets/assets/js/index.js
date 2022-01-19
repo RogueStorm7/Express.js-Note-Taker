@@ -57,7 +57,7 @@ app.get('/notes', (req, res) => {
 });
 
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, './public/assets/index.html'));
+  res.sendFile(path.join(__dirname, './public/index.html'));
 });
 
 function deleteNote(id, notesArray) {
