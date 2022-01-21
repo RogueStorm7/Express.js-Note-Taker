@@ -51,6 +51,6 @@ You can begin by downloading [Nodejs](https://nodejs.org/en/download/) to your c
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## Contact
-[Mianta McKnight](https://github.com/RogueStorm7/Express.js-Note-Taker.git)
+[Mianta McKnight](https://github.com/RogueStorm7/Express.js-pure-ocean-52127-Note-Taker.git)
 
 &copy; 2022 Mianta McKnight  | All rights reserved | 
