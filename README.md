@@ -37,14 +37,13 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 You can begin by downloading [Nodejs](https://nodejs.org/en/download/) to your computer.
 
 ## Website
-[Note Taker]()
+[Note Taker](https://pure-ocean-52127.herokuapp.com/notes)
 
 ## Screenshots
 
-![Screenshot](./public/img/Screenshot 1.png)
+![Screenshot](./public/img/Screenshot1.png)
 
-![Screenshot]
-(./public/img/Screenshot 2.png
+![Screenshot](./public/img/Screenshot2.png)
 
 ## Badges
 ![badge size](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
