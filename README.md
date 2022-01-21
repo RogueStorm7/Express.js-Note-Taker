@@ -41,14 +41,14 @@ You can begin by downloading [Nodejs](https://nodejs.org/en/download/) to your c
 
 ## Screenshots
 
-![Screenshot](https://github.com/RogueStorm7/Express.js-Note-Taker/blob/main/screenshots/Screenshot 1.png)
+![Screenshot](./public/img/Screenshot 1.png)
 
-![Screenshot](https://github.com/RogueStorm7/Express.js-Note-Taker/blob/main/screenshots/Screenshot 2.png)
+![Screenshot]
+(./public/img/Screenshot 2.png
 
 ## Badges
 ![badge size](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ![badge size](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![badge size]()
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## Contact
